@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,GAAG,CAAA;EACF,KAAK,EAAC,IAAI;EACV,MAAM,EAAE,SAAS;CACjB",
+    "sources": [
+        "controlls.scss"
+    ],
+    "names": [],
+    "file": "controlls.css"
+}

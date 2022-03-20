@@ -1,0 +1,11 @@
+.section {
+  overflow: hidden;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+  background-color: var(--color-primary);
+}
+
+main {
+  overflow: hidden;
+}
+/*# sourceMappingURL=main.css.map */
